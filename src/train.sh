@@ -7,4 +7,4 @@ python tensorflow/examples/image_retraining/retrain.py \
 	--model_dir=/mnt/model/inception \
 	--output_graph=/mnt/model/retrained_graph.pb \
 	--output_labels=/mnt/model/retrained_labels.txt \
-	--image_dir=/mnt/images
+	--image_dir=/mnt/train_images
